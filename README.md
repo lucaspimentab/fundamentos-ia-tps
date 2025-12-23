@@ -3,9 +3,9 @@
 Coleção três TPs da disciplina Fundamentos de IA (UFMG).
 
 ## Pastas
-- `tp1-bridge-and-torch`: buscas (DFS, BFS, UCS, A*) para o puzzle da ponte e da tocha. Inclui PDF original em `docs/`.
-- `tp2-graph-coloring`: coloracao de grafos com busca local, simulated annealing, algoritmo genetico e DSATUR em notebook. Dados em `data/instances`, graficos em `results/`, PDFs em `docs/`.
-- `tp3-q-learning`: notebook de Q-learning em grid 4x4 com politica epsilon-greedy. Material complementar em `docs/`.
+- `tp1-bridge-and-torch`: buscas (DFS, BFS, UCS, A*) para o puzzle da ponte e da tocha.
+- `tp2-graph-coloring`: coloracao de grafos com busca local, simulated annealing, algoritmo genetico e DSATUR em notebook. Dados em `data/instances`, graficos em `results/`.
+- `tp3-q-learning`: notebook de Q-learning em grid 4x4 com politica epsilon-greedy.
 
 ## Como usar
 1. Tenha Python 3.9+ instalado.
